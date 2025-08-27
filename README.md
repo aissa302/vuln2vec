@@ -27,11 +27,14 @@ The goal is to provide **high-quality embeddings** that capture cybersecurity-sp
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/vuln2vec.git
+git clone https://github.com/AissaBenyahya/vuln2vec.git
 cd vuln2vec
 pip install -r requirements.txt
+```
 
 ## Tokenize into valid tokens
+
+```python
 from preprocessor import CBSPreprocessor
 
 preprocessor = CBSPreprocessor()
@@ -45,6 +48,8 @@ print(valid_tokens)
 #  'to','inject','cross_site','code','to','initiate','xss','attacks']
 ```
 
+## Citation
+
 ```bash
 @article{yahya2025improving,
   title={Improving critical infrastructure security through hybrid embeddings for vulnerability classification},
@@ -56,3 +61,4 @@ print(valid_tokens)
   publisher={Elsevier}
 }
 ```
+
