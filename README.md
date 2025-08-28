@@ -27,7 +27,7 @@ The goal is to provide **high-quality embeddings** that capture cybersecurity-sp
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/AissaBenyahya/vuln2vec.git
+git clone https://github.com/aissa302/vuln2vec.git
 cd vuln2vec
 pip install -r requirements.txt
 ```
@@ -76,4 +76,3 @@ v2v.most_similar('sql_injection', topn=5)
   publisher={Elsevier}
 }
 ```
-
