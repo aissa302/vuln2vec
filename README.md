@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Vuln2Vec Logo" width="200"/>
+  <img src="./assets/logo.png" alt="Vuln2Vec Logo" width="300"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aissa302/vuln2vec/releases">
-    <img src="https://img.shields.io/github/v/release/aissa302/vuln2vec?style=for-the-badge" alt="Latest Release">
-  </a>
   <a href="https://github.com/aissa302/vuln2vec/issues">
     <img src="https://img.shields.io/github/issues/aissa302/vuln2vec?style=for-the-badge" alt="Issues">
   </a>
