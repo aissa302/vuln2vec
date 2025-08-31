@@ -1,3 +1,5 @@
+![Vuln2Vec Logo](./assets/logo.png)
+
 # Vuln2Vec
 
 **Vuln2Vec** is a domain-specific Word2Vec model for **cybersecurity text mining and NLP research**.  
