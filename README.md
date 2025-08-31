@@ -1,4 +1,4 @@
-![Vuln2Vec Logo](./assets/logo.png)
+<img src="./assets/logo.png" alt="Vuln2Vec Logo" width="300"/>
 
 # Vuln2Vec
 
